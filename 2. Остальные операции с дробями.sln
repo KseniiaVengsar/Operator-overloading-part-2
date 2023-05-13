@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. Остальные операции с дробями", "2. Остальные операции с дробями\2. Остальные операции с дробями.vcxproj", "{FF952A90-8063-40B8-B3F7-1CC4F836B0B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF952A90-8063-40B8-B3F7-1CC4F836B0B7}.Debug|x64.ActiveCfg = Debug|x64
+		{FF952A90-8063-40B8-B3F7-1CC4F836B0B7}.Debug|x64.Build.0 = Debug|x64
+		{FF952A90-8063-40B8-B3F7-1CC4F836B0B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF952A90-8063-40B8-B3F7-1CC4F836B0B7}.Debug|x86.Build.0 = Debug|Win32
+		{FF952A90-8063-40B8-B3F7-1CC4F836B0B7}.Release|x64.ActiveCfg = Release|x64
+		{FF952A90-8063-40B8-B3F7-1CC4F836B0B7}.Release|x64.Build.0 = Release|x64
+		{FF952A90-8063-40B8-B3F7-1CC4F836B0B7}.Release|x86.ActiveCfg = Release|Win32
+		{FF952A90-8063-40B8-B3F7-1CC4F836B0B7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {262B7A05-9B5A-4D5E-8D90-8D451AD428BC}
+	EndGlobalSection
+EndGlobal
